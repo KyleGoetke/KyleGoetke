@@ -1,4 +1,6 @@
-# Hi, I'm Kyle Goetke
+# Hi, I'm Kyle Goetke!
+
+Currently refactoring some old projects
 
 I'm a student at Drexel University
 
