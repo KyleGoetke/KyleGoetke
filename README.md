@@ -1,4 +1,4 @@
-# Hi, I'm Kyle Goetke!
+# Hi, my name is [Kyle](http://kylegoetke.github.io)!
 
 Studying at Drexel University
 - Computing & Security Technology major
