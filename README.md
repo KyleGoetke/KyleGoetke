@@ -4,4 +4,4 @@
 - Computing & Security Technology major
 - Learning (very) remotely
 
-Feel free to [email me](mailto:kylegoetke@protonmail.com?subject=Hi%20Kyle).
+Shoot me an [email](mailto:kylegoetke@protonmail.com?subject=Hi%20Kyle) if you would like to connect.
