@@ -1,4 +1,4 @@
-## Hi! My name is [Kyle](http://kylegoetke.github.io)
+## Hi! My name is Kyle
 
 Studying at Drexel University
 - Computing & Security Technology major
