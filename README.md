@@ -1,6 +1,6 @@
 ## Hi! My name is Kyle
 
-#### Studying at Drexel University
+### Studying at Drexel University
 - Computing & Security Technology major
 - Learning (very) remotely
 
