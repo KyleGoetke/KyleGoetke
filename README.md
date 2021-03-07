@@ -1,4 +1,4 @@
-## Hi, My name is Kyle!
+## Hi, my name is Kyle!
 
 ### Studying at Drexel University
 - Computing & Security Technology major
