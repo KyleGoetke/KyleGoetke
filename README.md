@@ -1,4 +1,4 @@
-**## Hi! I'm Kyle, a student at Drexel University.**
+## Hi! I'm Kyle, a student at Drexel University.
 
 Find me here:
 
