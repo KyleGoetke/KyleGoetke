@@ -2,9 +2,7 @@
 
 Find me here:
 
-<a target="_blank" href="https://www.linkedin.com/in/kyle-goetke/"><img class="badge" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<!-- <a target="_blank" href="https://kylegoetke.github.io"><img class="badge" src="https://img.shields.io/badge/Website-2A7DDC?style=for-the-badge&logo=github&logoColor=white" alt="Website"></a> -->
-<a target="_blank" href="mailto:kylegoetke@protonmail.com"><img class="badge" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=mail.ru&logoColor=white" alt="Email"></a>
+<a target="_blank" href="https://www.linkedin.com/in/kyle-goetke/"><img class="badge" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <!-- <a target="_blank" href="https://kylegoetke.github.io"><img class="badge" src="https://img.shields.io/badge/Website-2A7DDC?style=for-the-badge&logo=github&logoColor=white" alt="Website"></a> --> <a target="_blank" href="mailto:kylegoetke@protonmail.com"><img class="badge" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=mail.ru&logoColor=white" alt="Email"></a>
 
 Currently working with:
 
