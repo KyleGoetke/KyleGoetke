@@ -1,5 +1,7 @@
 ## Howdy, I'm [Kyle Goetke](https://kylegoetke.github.io)! 👋
 
+I'm studying Computing & Security Technology at Drexel University
+
 ### My main languages and tools:
 
 <p>
