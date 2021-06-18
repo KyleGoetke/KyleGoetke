@@ -18,7 +18,7 @@ I'm studying Computing & Security Technology at Drexel University
     <!-- Git -->
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" height="35">
     <!-- BASH -->
-    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" height="35">
+    <!-- <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" height="35"> -->
 </p>
 
 ### What's going on with me:
