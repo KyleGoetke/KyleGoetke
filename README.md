@@ -25,10 +25,10 @@ I'm studying Computing & Security Technology at Drexel University
 
 - 🔭 I’m working on [SchoolSystem](https://github.com/KyleGoetke/SchoolSystem)
 - 🌱 I’m currently learning Bash & Powershell
-- 🤔 I’m looking for help with (simple) database management
-- 💬 Ask me about DIY computers & computer hardware
+- 🤔 I’m looking for help with database management
+- 💬 Ask me about computer hardware & DIY computers
 - 📫 The best way to reach me is by [email](mailto:goetkek@protonmail.com)
-- ⚡ Fun fact: I was taught to play drums by a literal rockstar
+- ⚡ Fun fact: A literal rockstar taught me to play the drums
 
 ### Find me here:
 
