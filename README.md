@@ -1,4 +1,4 @@
-## Howdy, I'm [Kyle Goetke](https://kylegoetke.github.io)! 👋
+## Howdy, I'm **[Kyle Goetke](https://kylegoetke.github.io)**! 👋
 
 I'm studying Computing & Security Technology at Drexel University
 
@@ -23,11 +23,11 @@ I'm studying Computing & Security Technology at Drexel University
 
 ### What's going on with me:
 
-- 🔭 I’m working on [SchoolSystem](https://github.com/KyleGoetke/SchoolSystem)
+- 🔭 I’m working on **[SchoolSystem](https://github.com/KyleGoetke/SchoolSystem)**
 - 🌱 I’m currently learning Bash & Powershell
 - 🤔 I’m looking for help with database management
 - 💬 Ask me about computer hardware & DIY computers
-- 📫 The best way to reach me is by [email](mailto:goetkek@protonmail.com)
+- 📫 The best way to reach me is by **[email](mailto:goetkek@protonmail.com)**
 - ⚡ Fun fact: A literal rockstar taught me to play the drums
 
 ### Find me here:
