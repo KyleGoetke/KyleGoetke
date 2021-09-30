@@ -1,4 +1,4 @@
-# Hello! I'm [Kyle Goetke](https://kylegoetke.github.io) 👋
+# Hi! I'm [Kyle Goetke](https://kylegoetke.github.io) 👋
 I hope that you're having a nice day!
 
 ## About me:
@@ -11,6 +11,5 @@ I hope that you're having a nice day!
 ## Connect with me:
 <p>
     <a target="_blank" href="http://linkedin.com/in/Kyle-Goetke"><img class="badge" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-    <!-- <a target="_blank" href="http://linkedin.com/in/Kyle-Goetke"><img src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-linkedin-circle-512.png" alt="LinkedIn" height="50"></a>
-    <a target="_blank" href="http://linkedin.com/in/Kyle-Goetke"><img src="https://cdn4.iconfinder.com/data/icons/outline-imperial-seo/128/SEO_C_50_09.12.14-1_Artboard_15-512.png" alt="LinkedIn" height="50"></a> -->
+    <a target="_blank" href="mailto:kyle.goetke@gmail.com"><img class="badge" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=mail.ru&logoColor=white" alt="Email"></a>
 </p>
