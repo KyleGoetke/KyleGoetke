@@ -1,4 +1,4 @@
-# Hi! I'm [Kyle Goetke](https://kylegoetke.github.io) 👋
+# Hi! I'm Kyle Goetke 👋
 I hope that you're having a nice day!
 
 ## About me:
