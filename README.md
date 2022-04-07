@@ -3,7 +3,6 @@ I hope that you're having a nice day!
 
 ## About me:
 - 📚 I'm studying at Drexel University
-- 🚀 I'm also a DevOps Engineer at Health Union
 - 💬 Ask me about DIY computer hardware
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: A rockstar taught me to play the drums
