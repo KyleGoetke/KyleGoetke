@@ -2,10 +2,10 @@
 I hope that you're having a nice day!
 
 ## About me:
-- 📚 I'm studying at Drexel University <!-- - 🚀 I'm also a Technical Student Assistant at Drexel CCI -->
+- 📚 I'm studying at Drexel University
 - 💬 Ask me about DIY computer hardware
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: A rockstar taught me to play the drums
+- 🥁 I play the drums
 
 ## Find me here:
 <p>
